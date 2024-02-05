@@ -1,4 +1,4 @@
-# Hey there, I'm Darcy Weedman! 👋
+# I'm Darcy! 👋
 
 🌏 Based in Brisbane, Australia | 🎓 Studying Maths & Comp Sci @ University of Queensland (Class of 2025)
 
