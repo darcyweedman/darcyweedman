@@ -16,7 +16,7 @@ I'm a maths and computer science student with a keen interest in machine learnin
 
 ### Tech & Tools.
 
-I've dabbled in a bit of everything from Java to Python, SQL, and even Visual Basic when I'm feeling nostalgic. Current side projects are playing around with Django and Typescript.
+I've dabbled in a bit of everything from Java to Python, SQL, and even Visual Basic when I'm feeling nostalgic. Current side projects are playing around with FastAPI, google cloud, and Typescript
 
 ### Connect with me.
 
