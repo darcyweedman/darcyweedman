@@ -8,6 +8,7 @@ I'm a maths and computer science student with a keen interest in machine learnin
 
 ### Work History.
 
+- **Geopera**: Working on improving Geospatial data acquisition and quality
 - **Australian Bureau of Statistics**: Improved the census data process, making it faster and more accurate. Currently here as an undergrad engineer
 - **Geoimage**: Played around with YOLOv8 for object classification in geospatial imagery. Also, automated some stuff.
 - **UQ Financial Technology Society**: I got to organise some cool events and meet even cooler people
